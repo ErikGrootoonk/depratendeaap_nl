@@ -693,5 +693,12 @@
     "beschrijving": "based upon the novel 'The War of the Roses' by Warren Adler, the film follows a married couple whose relationship deteriorates into a bitter and destructive divorce battle, leading to a series of escalating pranks and revenge tactics that spiral out of control.",
     "jaar": "2025",
     "Taal": "ENG"
+  },
+  { "titel": "The Visitor",
+      "regiseur": "Tom McCarthy",
+      "acteurs":"Richard Jenkins, Hiam Abbass, Hazz Sleiman, Danai Gurira",
+      "beschrijving": "Man vindt twee mensen in zijn appartement, het blijken illegale vluchtelingen te zijn. Hij laat ze in zijn huis wonen, en probeert uitzetting te voorkomen.", 
+      "jaar": "2007",
+      "taal": "ENG"
   }
 ]
