@@ -356,3 +356,10 @@ MigrationBackup/
 .idea
 
 .DS_Store
+
+# Claude AI temporary files
+settings.local.json
+
+
+# environment files
+*.env
